@@ -1,5 +1,7 @@
 # custom-numeral-system
 
+[![Build Status](https://travis-ci.org/reergymerej/custom-numeral-system.svg?branch=master)](https://travis-ci.org/reergymerej/custom-numeral-system)
+
 Create encoder/decoder for a custom [numeral
 system](https://en.wikipedia.org/wiki/Numeral_system).
 
