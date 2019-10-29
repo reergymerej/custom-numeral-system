@@ -28,7 +28,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
     "babel-eslint": "^10.0.2",
-    "eslint": "3.x",
+    "eslint": "4.x",
     "eslint-scope": "^5.0.0",
     "jest": "^24.8.0"
   }
